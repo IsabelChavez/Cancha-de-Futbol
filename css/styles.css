@@ -1,0 +1,79 @@
+body{
+  background: #9ECB84;
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+    width: 1500px;
+    height: 650px;
+    background: #9ECB84;
+    border: 10px solid white;
+    color: #9ECB84;
+}
+
+.uno{
+  width: 150px;
+  height: 350px;
+  background: #9ECB84;
+  border: 10px solid white;
+  color: #9ECB84;
+  position: absolute;
+  left: 40px;
+  top: 160px;
+}
+
+.dos{
+  width: 150px;
+  height: 350px;
+  background: #9ECB84;
+  border: 10px solid white;
+  position: absolute;
+  color: #9ECB84;
+  left: 1390px;
+  top: 160px;
+}
+
+.tres{
+  width: 350px;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #9ECB84;
+  border: 10px solid white;
+  position: absolute;
+  color: #9ECB84;
+  : 1390px;
+  top: 160px;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  background: #9ECB84;
+}
+
+.pelotauno{
+  width: 40px;
+  height: 40px;
+  border: 0;
+  position: absolute;
+  left: 800px;
+  top: 100px;
+}
+
+.pelotados{
+  width: 40px;
+  height: 40px;
+  border: 0;
+  position: absolute;
+  right: 250px;
+  bottom: 280px;
+}
+
+.pelotatres{
+  width: 40px;
+  height: 40px;
+  border: 0;
+  position: absolute;
+  left: 200px;
+  top: 180px;
+}
